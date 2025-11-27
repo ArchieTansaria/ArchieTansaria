@@ -12,7 +12,7 @@
 
 ---
 
-### 🔧 tech I use  
+### 🔧 tech I work with  
 <div align="left">
 
 **core:**  
