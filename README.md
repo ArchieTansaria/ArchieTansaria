@@ -26,17 +26,10 @@
 </div>
 
 
-### 🌱 currently learning  
-- backend architecture  
-- OS fundamentals  
-- modern frontend patterns  
-- how to build better things faster
-
 ---
 
 ### 💬 connect with me  
-If you’re a builder, designer, or just someone who loves tech — my DMs are open.  
-Always down to talk about ideas, systems, or something you’re building.
+If you’re a builder, designer, or just someone who loves tech, lets connect (lets talk on X).  
 
 ---
 
