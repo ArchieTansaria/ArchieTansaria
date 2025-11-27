@@ -1,4 +1,4 @@
-<h2 align="center">hey, I'm Archie 👋</h2>
+<h2 align="center">hey, I'm archie 👋</h2>
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
 ---
@@ -17,7 +17,7 @@
 
 **core:**  
 `JavaScript` · `TypeScript` · `Python` · `Node.js` · `Express`  
-`React` · `Vite` · `PostgreSQL` · `MongoDB`  
+`React` · `Vite` · `PostgreSQL` · `MongoDB` · `Prisma`  · `Docker`
 
 **other things I enjoy:**  
 `Linux` · `Git` · `Networking basics` · `Web Security`  
@@ -25,25 +25,6 @@
 
 </div>
 
----
-
-### 📂 featured work  
-_(my pinned repos are the best place to start — more coming as I build in public)_  
-
-- **Full-Stack Projects** — real products & experiments  
-- **Design-Forward UIs** — dashboards, components, layouts  
-- **Systems & Security Experiments** — low-level scripts & tools  
-- **Notes & Learning** — OS internals, networking, dev docs
-
----
-
-### 🚀 what I'm doing now  
-- building projects publicly  
-- sharpening full-stack + design skills  
-- exploring system internals (processes, memory, I/O…)  
-- learning practical security concepts  
-
----
 
 ### 🌱 currently learning  
 - backend architecture  
