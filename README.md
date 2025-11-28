@@ -18,17 +18,8 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchieTansaria&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchieTansaria&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 
@@ -39,7 +30,4 @@ If you’re a builder, designer, or just someone who loves tech, lets connect.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thearchietans) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ArchieTansaria) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/archietansaria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archietans.work@gmail.com) 
 
 
-
-##### 💰 You can help me fund my ideas
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/archietans) 
 
