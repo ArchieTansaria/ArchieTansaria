@@ -1,8 +1,7 @@
-<h2 align="center">hey, I'm archie 👋</h2>
+<h2 align="center">hey, I'm archie</h2>
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
 
-### 👨‍💻 about me  
 - I build full-stack products (sometimes small, sometimes ambitious)  
 - I care about clean design and developer experience  
 - I explore systems / OS concepts + security in my free time  
