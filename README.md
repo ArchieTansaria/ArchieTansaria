@@ -19,12 +19,17 @@
 
 </br>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchieTansaria&theme=dark&hide_border=true" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchieTansaria&theme=dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-
-</div>
 
 ---
 
