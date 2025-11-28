@@ -1,7 +1,6 @@
 <h2 align="center">hey, I'm archie 👋</h2>
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
----
 
 ### 👨‍💻 about me  
 - I build full-stack products (sometimes small, sometimes ambitious)  
