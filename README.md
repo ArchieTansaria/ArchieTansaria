@@ -19,9 +19,9 @@
 
 </br>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchieTansaria&theme=dark&hide_border=true" />
     </td>
     <td align="center" valign="middle">
@@ -29,7 +29,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
