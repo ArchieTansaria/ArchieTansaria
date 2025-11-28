@@ -1,11 +1,6 @@
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
-
-- I build full-stack products (sometimes small, sometimes ambitious)  
-- I care about clean design and developer experience  
-- I explore systems / OS concepts + security in my free time  
-- I love understanding how things work under the hood  
-- always learning, always building  
+![Gamer](https://github.com/user-attachments/assets/bebd66fe-46e5-4f8c-930e-9ac4fcd3d5a7)
 
 ---
 
