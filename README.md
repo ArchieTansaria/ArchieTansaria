@@ -1,7 +1,6 @@
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
 </br>
-</br>
 
 <div align="center">
 <p align="center">
