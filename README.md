@@ -1,6 +1,8 @@
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
-![Gamer](https://github.com/user-attachments/assets/bebd66fe-46e5-4f8c-930e-9ac4fcd3d5a7)
+<div align="center">
+![tumblr_677428305a191be6292b953c224eaa14_9b0a5b52_640](https://github.com/user-attachments/assets/bef9d964-50e1-419c-b4c9-30875b9c8684)
+</div>
 
 ---
 
