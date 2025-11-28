@@ -20,9 +20,7 @@
 ---
 
 
-![](https://github-readme-stats.vercel.app/api?username=ArchieTansaria&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArchieTansaria&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieTansaria&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![ArchieTansaria's Stats](https://github-readme-stats.vercel.app/api?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
