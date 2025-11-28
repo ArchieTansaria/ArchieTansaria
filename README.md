@@ -19,10 +19,13 @@
 
 ---
 
+<div align="center">
 
 ![ArchieTansaria's Stats](https://github-readme-stats.vercel.app/api?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![ArchieTansaria's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArchieTansaria&theme=dark&hide_border=true)
 ![ArchieTansaria's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchieTansaria&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
