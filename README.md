@@ -1,7 +1,9 @@
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
 <div align="center">
-![-c40ar5](https://github.com/user-attachments/assets/397756e0-a2d7-4ada-856d-9f89174aa71f)
+<p align="center">
+  <img src="assets/twt-banner.jpg" width="1100">
+</p>
 </div>
 
 ---
