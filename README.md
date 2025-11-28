@@ -1,7 +1,7 @@
 <p align="center">full-stack dev • design enjoyer • tinkering with systems & security</p>
 
 <div align="center">
-![tumblr_677428305a191be6292b953c224eaa14_9b0a5b52_640](https://github.com/user-attachments/assets/bef9d964-50e1-419c-b4c9-30875b9c8684)
+![-c40ar5](https://github.com/user-attachments/assets/397756e0-a2d7-4ada-856d-9f89174aa71f)
 </div>
 
 ---
