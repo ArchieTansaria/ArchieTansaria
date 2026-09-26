@@ -34,4 +34,4 @@
 
 <div align="center">
 
-If you’re a builder, designer, or just someone who loves tech, lets connect hi@archietans.xyz
+If you’re a builder or just someone who loves tech, lets connect hi@archietans.xyz
